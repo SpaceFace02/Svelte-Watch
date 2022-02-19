@@ -11,7 +11,8 @@
 5. Mobile Friendly
 6. Writable and Readable Svelte Stores
 7. Svelte Animations
-8. Navigation using Svelte Router
+8. Navigation and Dynamic Routes using Svelte Router
+9. Dynamic Routes using Svelte Router
 
 ### How to run
 
@@ -19,3 +20,8 @@
 - Get a MovieDB API key from [here](https://www.themoviedb.org/settings/api)
 - Run the following command in the root of the repo - `npm install`
 - Run the following command in the root of the repo - `npm run dev`
+
+# Images
+
+<img src="img2.png" alt="img2" width="600"/>
+<img src="img1.png" alt="img1" width="600"/>
