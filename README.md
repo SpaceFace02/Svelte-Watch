@@ -1,6 +1,6 @@
 ## SvelteWatch - A Svelte Web-App to show the latest and greatest movies dynamically.
 
-### Learning SvelteKit and Svelte as it is one of the most lightweight and blazing fast web frameworks in existence. It is also closer to the native HTML and Javascript type of code. More information [here](https://svelte.dev/docs/getting-started).
+### Learning SvelteKit and Svelte as it is one of the most lightweight and blazing fast web frameworks(its actually like a compilor lol) in existence. It is also closer to native HTML and Javascript. 2 way data binding has made me understand how bloated web frameworks actually are. More information [here](https://svelte.dev/docs/getting-started).
 
 ### Features
 
