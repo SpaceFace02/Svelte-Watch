@@ -18,6 +18,7 @@
 
 - Clone the repo on your local machine
 - Get a MovieDB API key from [here](https://www.themoviedb.org/settings/api)
+- Create a .env file and add "VITE_API_KEY=<your_api_key>". (Without the quotation marks).
 - Run the following command in the root of the repo - `npm install`
 - Run the following command in the root of the repo - `npm run dev`
 
